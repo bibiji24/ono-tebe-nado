@@ -236,6 +236,7 @@
   font-weight: 700;
   line-height: 26.4px;
   text-transform: uppercase;
+  text-decoration: underline;
 }
 
 .card__text {
